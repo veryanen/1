@@ -1,0 +1,15 @@
+{
+  "spider": "https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar",
+  "sites": [
+    {
+      "key": "黄豆短剧",
+      "name": "黄豆短剧(Py)",
+      "type": 3,
+      "api": "py_hdmgdj",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://cdn.jsdelivr.net/gh/veryanen/1@3de3485ef558dec31cc9a84f386c27faa06a94ec/1"
+    }
+  ]
+}
