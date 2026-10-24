@@ -5,11 +5,11 @@
       "key": "黄豆短剧",
       "name": "黄豆短剧(Py)",
       "type": 3,
-      "api": "py_hdmgdj",
+      "api": "py_1", 
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://cdn.jsdelivr.net/gh/veryanen/1@main/config.json"
+      "ext": "https://cdn.jsdelivr.net/gh/veryanen/1@main/1"
     }
   ]
 }
