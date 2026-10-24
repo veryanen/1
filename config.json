@@ -9,7 +9,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "[https://cdn.jsdelivr.net/gh/veryanen/1@main/1.py](https://cdn.jsdelivr.net/gh/veryanen/1@main/1.py)"
+      "ext": "https://cdn.jsdelivr.net/gh/veryanen/1@main/1.py"
     }
   ]
 }
